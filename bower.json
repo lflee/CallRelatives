@@ -1,0 +1,22 @@
+{
+  "name": "CallRelatives",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lflee/CallRelatives",
+  "authors": [
+    "lflee <leelapfung@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-button": "Polymer/paper-button#~0.5.5",
+    "paper-dialog": "Polymer/paper-dialog#~0.5.5",
+    "paper-tabs": "Polymer/paper-tabs#~0.5.5",
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
